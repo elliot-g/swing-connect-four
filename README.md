@@ -1,7 +1,7 @@
 # Swing Connect Four
 This is a simple connect four game written in Java.
 
-# Installation
+# Usage
 - Note: Source files along with resource files
   must be in their original location.
 - Note: The main class is 'ConnectFour'.
@@ -14,7 +14,7 @@ This is a simple connect four game written in Java.
       java connectfour.ConnectFour
       ```
 
-# Usage
+# Help
 For help on how to use the software, refer to the help section in the software.
 This program saves to three files, 'save.connect4', 'p1.color', 'p2.color'.
 Tampering or moving the save files is not recommended, but if done, the program
