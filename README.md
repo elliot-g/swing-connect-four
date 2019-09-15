@@ -9,7 +9,8 @@ This is a simple connect four game written in Java.
   - Running the ConnectFour class in an IDE capable of running  Java.
   - Manually compiling and running the source files:
       ```
-      javac <path to package>/connectfour/*.java
+      javac <path to download>/src/connectfour/*.java
+      cd <path to download>/src/
       java connectfour.ConnectFour
       ```
 
