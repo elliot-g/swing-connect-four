@@ -5,11 +5,11 @@ This is a simple connect four game written in Java.
 - Note: Source files along with resource files
   must be in their original location.
 - Note: The main class is 'ConnectFour'.
-The program can be launched by:
-- Running the ConnectFour class in an IDE capable of running  Java.
-- Manually compiling and running the source files:
-    javac <path to package>/connectfour/*.java
-    java connectfour.ConnectFour
+- The program can be launched by:
+  - Running the ConnectFour class in an IDE capable of running  Java.
+  - Manually compiling and running the source files:
+      javac <path to package>/connectfour/*.java
+      java connectfour.ConnectFour
 
 # Usage
 For help on how to use the software, refer to the help section in the software.
